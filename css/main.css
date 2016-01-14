@@ -94,7 +94,7 @@ nav a {
         width: 100%;
         display: none;
         text-align: center;
-        margin-top: 48px;
+        margin-top: 58px;
         background-color: #000;
     }
 
@@ -106,12 +106,8 @@ nav a {
 
     .side-menu li {
         padding: 20px 0;
-    }
-
-    .side-menu li:not(:last-child) {
         border-bottom: 1px solid #fff;
     }
-
 }
 
 @media only screen and (max-width : 480px) {

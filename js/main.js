@@ -6,5 +6,8 @@ $(document).ready(function() {
         $('#side-menu').slideToggle();
     });
 
-});
+    $( '#side-menu' ).click(function() {
+        $('#side-menu').slideUp();
+    });
 
+});
