@@ -1,3 +1,3 @@
 # simple-bootstrap-nav
 
-This is a minimalistic bootstrap that includes destop and mobile navigation
+This is a minimalistic bootstrap that includes desktop and mobile navigation
